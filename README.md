@@ -14,3 +14,6 @@ Tribe Hired API Test by Hayden
 * run node ./bin/www 
   
   
+ # Result Print Screen
+ ![Screenshot](ss1.png)
+ ![Screenshot](ss2.png)
